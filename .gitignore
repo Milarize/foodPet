@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Distribution / Packaging
+.env
+.DS_Store
+*.egg-info/
+dist/
+build/
+
+# Log files
+*.log
+
+# Miscellaneous
+.pytest_cache/
+.coverage
+.idea/
+.vscode/
